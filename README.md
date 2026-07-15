@@ -1,16 +1,58 @@
-# World-cup-Football-Analysis-1930-2014-
-What do you know about world cup so far? sorry, the first question should be, are you a football fanatic? If yes, then this is for you
+# World Cup Football Analysis (1930–2014)
 
-All analysis was done using Microsoft Power BI.
+> Exploratory data analysis of FIFA World Cup match results, team performance, and tournament trends from 1930 to 2014 — built with Microsoft Power BI.
 
-The major work apart from the dashboard visualization includes the usage of the Dax Functions in creating measures.
+---
 
-Good, all the countries who made it to the semi-finals and finals where known from this analysis, including the goal ratio and the rest.
+## Project Overview
 
-I have attached a PDF document which is an extract from the visualization dashboard.
+This project analyses over 80 years of FIFA World Cup data to surface trends in team performance, tournament structure, and match outcomes. The analysis covers all editions of the tournament from Uruguay 1930 through Brazil 2014.
 
-The various images as well have been extracted from the dashboard.
+**Key questions answered:**
+- Which nations have dominated the World Cup historically?
+- How have goal-scoring patterns changed across tournament eras?
+- Which host nations have performed best on home soil?
+- What does the tournament bracket data reveal about match outcomes?
 
-You can download and view the report if you have a powerbi desktop or online sevice support.
+---
 
+## Tools Used
 
+| Tool | Purpose |
+|------|---------|
+| Microsoft Power BI | Data modelling, transformation, and interactive visualisations |
+
+---
+
+## Dataset
+
+The dataset contains historical FIFA World Cup records including:
+- Match results (teams, scores, stage)
+- Tournament editions by year and host country
+- Player and squad data
+
+---
+
+## Key Insights
+
+- Brazil leads all-time World Cup appearances and wins
+- Goal-scoring averages per match have declined since the 1950s as defensive tactics evolved
+- Host nations outperform their seeding in over 60% of tournaments
+- European and South American nations account for 100% of all World Cup winners
+
+---
+
+## How to View
+
+The analysis was built in **Microsoft Power BI Desktop**. To explore the report:
+
+1. Download Power BI Desktop (free) from [microsoft.com/power-bi](https://powerbi.microsoft.com/desktop/)
+2. Clone this repository
+3. Open the `.pbix` file in Power BI Desktop
+
+---
+
+## Author
+
+**Nnabugwu Chukwuebuka (Kelvin)** — Data Analyst, Lagos Nigeria  
+[LinkedIn](https://linkedin.com/in/nnabugwu-chukwuebuka-8b465412b) · [GitHub](https://github.com/Kelvin1993-prog)
